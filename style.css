@@ -2,10 +2,22 @@
 
     border: 1px solid black;
 
-    padding: 50%;
+    padding: 1%;
 
     font-family: 'Times New Roman', Times, serif, monospace;
 
     font-size: medium;
+
+    text-align: center;
+
+    margin-top: 25%;
+
+    background-color: rgb(234, 255, 0)
+
+}
+
+.wholepage {
+
+    background-color: rgb(205, 110, 65);
 
 }
